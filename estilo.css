@@ -54,7 +54,7 @@ footer {
     transform-style: preserve-3d;
 }
 
-.cartao:hover .cartao-verso{
+.cartao:hover .cartao-verso {
     transform: rotateY(180deg);
 }
 
@@ -65,7 +65,7 @@ footer {
     backface-visibility: hidden;
 }
 
-.cartao-verso{
+.cartao-verso {
     transform: rotateY(180deg); 
 }
 
