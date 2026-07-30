@@ -48,7 +48,8 @@ footer {
 } 
 
 .cartao-interno { 
-  position: relative; 
+  position: relative;
+  transition: transform 0.8s;
 } 
 
 .cartao-frente, .cartao-verso { 
